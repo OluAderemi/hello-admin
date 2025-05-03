@@ -1,6 +1,6 @@
 # Hello Admin
 
-**Version:** 1.0  
+**Version:** 1.4  
 **Author:** Pelumi Aderemi  
 
 ## Description
@@ -17,7 +17,7 @@ Perfect for admin-only notes, quick to-dos, or time-sensitive alerts — all man
 
 ## Installation
 
-1. Upload the plugin folder to `/wp-content/plugins/` or install via the WordPress Plugins menu.
+1. Upload the plugin folder to `/wp-content/plugins/`.
 2. Activate the plugin through the **Plugins** menu in WordPress.
 3. Navigate to **Hello Admin Pro** in your admin sidebar.
 
