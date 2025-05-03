@@ -37,7 +37,7 @@ To ensure emails are sent reliably:
 
 ## Reminder Cron Job
 
-The plugin checks for due reminders every **10 minutes** using WordPress's cron system.
+The plugin checks for due reminders using WordPress's cron system.
 
 ---
 
